@@ -1,0 +1,77 @@
+body{
+    background-color: lightcyan;
+}
+header{
+    font-size: 40; color:moccasin;
+    text-align: center; 
+    font-size: 40px;
+    font-family: chalkduster,fantasy;
+    color: #9400D3;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-weight: bold;
+    padding: 20px;
+}
+button{
+    border: 2px solid black;
+    border-radius: 50%;
+display: block;
+    outline: 	lawngreen solid 5px;
+    margin: auto;  
+    padding: 15px;
+    text-align: center;
+    font-size: 14px;
+    font-family: lucinda Grande;
+}
+div{box-shadow: deeppink;
+}
+h1{    font-size: 40px;
+    font-family: Lucinda Grande;}
+summary{
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+font-size: 24px;
+font-family: Chalkduster, fantasy;
+color: coral;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+details{ color: black;}
+footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border: 3px dotted black;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px
+}
+a:link, :visited {
+color:purple;
+padding-block: 50%;
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    border-style:dotted;background-color: lightsalmon ;
+    border-radius: 40px;
+    height: 50px;
+    font-family: papyrus;
+    font-size: 40px;
+text-align: center; padding: 10px;
+border-right: 15px;
+}
+h2{
+    border-style: dotted;background-color:greenyellow;
+    border-radius: 40px;
+    height: 50px;
+    text-align: center; 
+    font-size: 40px;
+    font-family: papyrus;
+}
+h3{border-style: dotted;background-color: orchid;
+    border-radius: 40px;
+    height: 50px;
+    text-align: center; 
+    font-size: 40px;
+    font-family: papyrus;
+}

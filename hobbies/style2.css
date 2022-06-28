@@ -1,0 +1,69 @@
+body{
+    background-color: plum;
+}
+header{
+    font-size: 40; color:moccasin; 
+    text-align: center; 
+    font-size: 40px;
+    font-family: papyrus;
+    font-weight: bold;
+    padding: 20px;
+}
+button{
+    background-color: #FFFACD;
+    border:groove;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    font-size: 14px;
+    font-family: lucinda Grande;
+}
+div{box-shadow: deeppink;}
+h1{    font-size: 40px;
+    font-family: Lucinda Grande;}
+summary{
+font-size: 24px;
+font-family: cursive;
+}
+details{ color: black;}
+footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border: 3px dotted;color: antiquewhite;
+
+    border-radius: 30px;
+    padding: 5px;
+    width: 300px
+}
+a:link, :visited {
+color:ghostwhite;
+font-size: 25px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    border-style: dotted;background-color:#00FA9A ;
+    border-radius: 10px;
+   
+    font-family: papyrus;
+    font-size: 40px;
+text-align: center; padding: 10px;
+border-right: 15px;
+}
+h2{
+    border-style: dotted;background-color:#00FA9A;
+    border-radius: 10px;
+ 
+    text-align: center; 
+    font-size: 40px;
+    font-family: papyrus;
+}
+h3{border-style: dotted;background-color:#00FA9A;
+    border-radius: 10px;
+  
+    text-align: center; 
+    font-size: 40px;
+    font-family: papyrus;
+}
